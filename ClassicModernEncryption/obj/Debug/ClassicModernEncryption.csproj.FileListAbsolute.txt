@@ -1,0 +1,14 @@
+C:\Users\Mamba\Videos\CeasarShiftCipherCSharp\bin\Debug\ClassicModernEncryption.exe
+C:\Users\Mamba\Videos\CeasarShiftCipherCSharp\bin\Debug\ClassicModernEncryption.pdb
+C:\Users\Mamba\Videos\CeasarShiftCipherCSharp\obj\Debug\CeasarShiftCipherCSharp.CeasarShiftCipherForm.resources
+C:\Users\Mamba\Videos\CeasarShiftCipherCSharp\obj\Debug\ClassicModernEncryption.Properties.Resources.resources
+C:\Users\Mamba\Videos\CeasarShiftCipherCSharp\obj\Debug\ClassicModernEncryption.csproj.GenerateResource.Cache
+C:\Users\Mamba\Videos\CeasarShiftCipherCSharp\obj\Debug\ClassicModernEncryption.exe
+C:\Users\Mamba\Videos\CeasarShiftCipherCSharp\obj\Debug\ClassicModernEncryption.pdb
+C:\Users\Mamba\Videos\ClassicModernEncryption\obj\Debug\ClassicModernEncryption.exe
+C:\Users\Mamba\Videos\ClassicModernEncryption\obj\Debug\ClassicModernEncryption.pdb
+C:\Users\Mamba\Videos\ClassicModernEncryption\bin\Debug\ClassicModernEncryption.exe
+C:\Users\Mamba\Videos\ClassicModernEncryption\bin\Debug\ClassicModernEncryption.pdb
+C:\Users\Mamba\Videos\ClassicModernEncryption\obj\Debug\CeasarShiftCipherCSharp.CeasarShiftCipherForm.resources
+C:\Users\Mamba\Videos\ClassicModernEncryption\obj\Debug\ClassicModernEncryption.Properties.Resources.resources
+C:\Users\Mamba\Videos\ClassicModernEncryption\obj\Debug\ClassicModernEncryption.csproj.GenerateResource.Cache
